@@ -1,0 +1,6 @@
+C:\Users\Ghyles\Desktop\WebScarping-CSharp\WebScarping-CSharp\bin\Debug\WebScarping-CSharp.exe.config
+C:\Users\Ghyles\Desktop\WebScarping-CSharp\WebScarping-CSharp\bin\Debug\WebScarping-CSharp.exe
+C:\Users\Ghyles\Desktop\WebScarping-CSharp\WebScarping-CSharp\bin\Debug\WebScarping-CSharp.pdb
+C:\Users\Ghyles\Desktop\WebScarping-CSharp\WebScarping-CSharp\obj\Debug\WebScarping-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ghyles\Desktop\WebScarping-CSharp\WebScarping-CSharp\obj\Debug\WebScarping-CSharp.exe
+C:\Users\Ghyles\Desktop\WebScarping-CSharp\WebScarping-CSharp\obj\Debug\WebScarping-CSharp.pdb
